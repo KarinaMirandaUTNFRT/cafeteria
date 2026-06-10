@@ -1,13 +1,13 @@
 {
   "name": "cafeteria",
   "version": "1.0.0",
-  "description": "",
+  "description": "consultar la información del día de una cafeteria",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["endpoint", "middleware"],
+  "author": "Karina Miranda",
   "license": "ISC",
   "devEngines": {
     "packageManager": {
