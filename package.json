@@ -4,7 +4,7 @@
   "description": "consultar la información del día de una cafeteria",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "keywords": ["endpoint", "middleware"],
   "author": "Karina Miranda",
