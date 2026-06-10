@@ -4,7 +4,8 @@
   "description": "consultar la información del día de una cafeteria",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "dev":"node --watch index"
   },
   "keywords": ["endpoint", "middleware"],
   "author": "Karina Miranda",
